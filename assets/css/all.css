@@ -1,0 +1,51 @@
+.text-deepGreen{
+    color: rgb(41, 175, 146);
+}
+.nav-link:hover{
+    transition: all .5s;
+    color: rgb(41, 175, 146) !important;
+    transform: scale(1.2);
+}
+.owl-carousel button.owl-dot.active {
+    background-color: #25a887;
+}
+.btn-outline-light:hover{
+    transition: all .5s;
+    color: rgb(41, 175, 146) !important;
+}
+.btn-deepGreen:hover{
+    transition: all .5s;
+    color: rgb(255, 255, 255) !important;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: inline-block;
+    margin: auto;
+    width: 50
+px
+;
+    height: 50
+px
+;
+    line-height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: hsl(160, 84%, 34%);
+    color: #fff;
+}
+.fg-deepGreen{
+    font-size: 40px;
+}
+.page-footer{
+    background: #4d4949c4;
+}
+.back-to-top{
+    background:#25a887;
+}
+.back-to-top:hover{
+    background:#0d3a2f;
+    color: #fff;
+    transition: .5s all;
+}
